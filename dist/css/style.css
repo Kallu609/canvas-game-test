@@ -1,0 +1,14 @@
+body {
+  margin: 0px;
+  background: rgb(36, 36, 36);
+}
+
+.game-container {
+  width: 600px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+#game {
+  border: 1px solid gray;
+}
